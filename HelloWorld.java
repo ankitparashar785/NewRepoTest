@@ -11,3 +11,5 @@ public class test{
 	  a=8;
   }
 }
+public class test2{
+}
