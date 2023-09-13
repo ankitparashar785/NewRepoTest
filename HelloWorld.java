@@ -6,5 +6,8 @@ public class HelloWorld{
 
 }
 public class test{
-  
+  private int a;
+  void set(){
+	  a=8;
+  }
 }
